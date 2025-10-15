@@ -66,10 +66,6 @@ This project was built with reference to a community tutorial:
 
 - YouTube: "FastAPI + Next.js Authentication Tutorial" — https://www.youtube.com/watch?v=g566eI2EmeY
 
-License
-
-This repository is provided as-is. Adjust licensing to match your needs.# FastAPI + Next.js Starter
-
 This repository contains a small starter project that pairs a FastAPI backend with a Next.js frontend.
 
 Features
